@@ -1,0 +1,39 @@
+LastSession	connecttype	0
+LastSession	facility	0
+LastSession	rating	0
+LastSession	server	USA-East
+LastSession	tovatsim	1
+LastSession	range	200
+LastSession	proxyserver	localhost
+LastSession	simdatapublish	0
+; Settings
+Settings	sector	\Sector Files\SBBS\SBBS - FIR Brasilia\SBBS.sct
+Settings	SettingsfileSYMBOLOGY	\Settings\symbology.txt
+Settings	SettingsfilePROFILE	\Settings\login_profiles.txt
+Settings	SettingsfileTAGS	\Settings\tags.txt
+Settings	SettingsfileSIL	\Settings\lists.txt
+Settings	SettingsfileSEL	\Settings\lists.txt
+Settings	SettingsfileDEP	\Settings\lists.txt
+Settings	SettingsfileARR	\Settings\lists.txt
+Settings	SettingsfileFP	\Settings\lists.txt
+Settings	SettingsfileCONFLICT	\Settings\lists.txt
+Settings	SettingsfilePILOTING	\Settings\lists.txt
+Settings	SettingsfilePLUGINS	\Settings\plugins.txt
+Settings	Settingsfile	\Settings\general_settings.txt
+Settings	SettingsfileSCREEN	\Settings\screen_layout.txt
+Settings	SettingsfileVCCS	\Settings\vccs.txt
+;  Data Files
+Settings	SettingsfileVOICE	\Data_Files\GAVC - POF VATBRZ - Dez18.txt
+Settings	airlines	\Data_Files\ICAO Airlines data.txt
+Settings	airports	\Data_Files\ICAO Airports data.txt
+Settings	aircraft	\Data_Files\ICAO Aircraft data.txt
+Settings	airportcoords	\Data_Files\ICAO.txt
+Settings	airways	\Data_Files\FS Navigator data.txt
+Settings	alias	\Data_Files\Aliases VATBRZ v1.txt
+; Other
+TeamSpeakVccs	Ts3DialogLeft	0
+TeamSpeakVccs	Ts3DialogTop	0
+TeamSpeakVccs	Ts3DialogRight	750
+TeamSpeakVccs	Ts3DialogBottom	600
+RecentFiles	Recent2	\default.asr
+Voice	bass_filter	0

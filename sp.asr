@@ -1,0 +1,655 @@
+DisplayTypeName:SP_VATBRZ
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:Sector Files\SBCW\SBXP - Sao Paulo\SBXP.sct
+SECTORTITLE:SBXP.sct
+Airports:SBBP:name
+Airports:SBBP:symbol
+Airports:SBGR:name
+Airports:SBGR:symbol
+Airports:SBGW:name
+Airports:SBGW:symbol
+Airports:SBJD:name
+Airports:SBJD:symbol
+Airports:SBKP:name
+Airports:SBKP:symbol
+Airports:SBMT:name
+Airports:SBMT:symbol
+Airports:SBSJ:name
+Airports:SBSJ:symbol
+Airports:SBSP:name
+Airports:SBSP:symbol
+Airports:SBST:name
+Airports:SBST:symbol
+Airports:SBTA:name
+Airports:SBTA:symbol
+Airports:SDAG:name
+Airports:SDAG:symbol
+Airports:SDAI:name
+Airports:SDAI:symbol
+Airports:SDAM:name
+Airports:SDAM:symbol
+Airports:SDCO:name
+Airports:SDCO:symbol
+Airports:SDIM:name
+Airports:SDIM:symbol
+Airports:SDMJ:name
+Airports:SDMJ:symbol
+Airports:SDOI:name
+Airports:SDOI:symbol
+Airports:SDPW:name
+Airports:SDPW:symbol
+Airports:SDRS:name
+Airports:SDRS:symbol
+Airports:SDTB:name
+Airports:SDTB:symbol
+Airports:SDTK:name
+Airports:SDTK:symbol
+Airports:SDUB:name
+Airports:SDUB:symbol
+ARTCC boundary:SBGW_M_APP:
+ARTCC boundary:SBWJ_APP:
+ARTCC boundary:SBXP_APP:
+ARTCC boundary:SBXP_F_APP:
+ARTCC boundary:SBXQ_APP:
+ARTCC high boundary:SBCW_CTR:
+ARTCC low boundary:ATZ_SDCO:
+ARTCC low boundary:ATZ_SDIM:
+ARTCC low boundary:ATZ_SDTB:
+ARTCC low boundary:ATZ_SDTK:
+ARTCC low boundary:ATZ_SDUB:
+ARTCC low boundary:SBBP_TWR:
+ARTCC low boundary:SBGR_TWR:
+ARTCC low boundary:SBGW_M_TWR:
+ARTCC low boundary:SBJD_TWR:
+ARTCC low boundary:SBKP_TWR:
+ARTCC low boundary:SBMT_TWR:
+ARTCC low boundary:SBSJ_TWR:
+ARTCC low boundary:SBSP_TWR:
+ARTCC low boundary:SBST_TWR:
+ARTCC low boundary:SBTA_M_TWR:
+ARTCC low boundary:SDAI_ATZ:
+ARTCC low boundary:SDAM_ATZ:
+Free Text:AMA-SBCW\10:freetext
+Free Text:AMA-SBCW\12:freetext
+Free Text:AMA-SBCW\29:freetext
+Free Text:AMA-SBCW\31:freetext
+Free Text:AMA-SBCW\31:freetext
+Free Text:AMA-SBCW\37:freetext
+Free Text:AMA-SBCW\42:freetext
+Free Text:AMA-SBCW\42:freetext
+Free Text:AMA-SBCW\42:freetext
+Free Text:AMA-SBCW\50:freetext
+Free Text:AMA-SBCW\63:freetext
+Free Text:AMA-SBCW\66:freetext
+Free Text:AMA-SBCW\66:freetext
+Free Text:AMA-SBCW\66:freetext
+Free Text:AMA-SBCW\98:freetext
+Free Text:SBGR\1:freetext
+Free Text:SBGR\12:freetext
+Free Text:SBGR\2:freetext
+Free Text:SBGR\3:freetext
+Free Text:SBGR\4:freetext
+Free Text:SBGR\5:freetext
+Free Text:SBGR\501:freetext
+Free Text:SBGR\502:freetext
+Free Text:SBGR\502L:freetext
+Free Text:SBGR\502R:freetext
+Free Text:SBGR\503:freetext
+Free Text:SBGR\504:freetext
+Free Text:SBGR\504L:freetext
+Free Text:SBGR\504R:freetext
+Free Text:SBGR\505:freetext
+Free Text:SBGR\505R:freetext
+Free Text:SBGR\506:freetext
+Free Text:SBGR\507:freetext
+Free Text:SBGR\507L:freetext
+Free Text:SBGR\507R:freetext
+Free Text:SBGR\508:freetext
+Free Text:SBGR\508L:freetext
+Free Text:SBGR\508R:freetext
+Free Text:SBGR\509:freetext
+Free Text:SBGR\509L:freetext
+Free Text:SBGR\509R:freetext
+Free Text:SBGR\510:freetext
+Free Text:SBGR\510L:freetext
+Free Text:SBGR\510R:freetext
+Free Text:SBGR\511:freetext
+Free Text:SBGR\511L:freetext
+Free Text:SBGR\511R:freetext
+Free Text:SBGR\6:freetext
+Free Text:SBGR\601:freetext
+Free Text:SBGR\601L:freetext
+Free Text:SBGR\601R:freetext
+Free Text:SBGR\602:freetext
+Free Text:SBGR\602L:freetext
+Free Text:SBGR\602R:freetext
+Free Text:SBGR\603:freetext
+Free Text:SBGR\603L:freetext
+Free Text:SBGR\603R:freetext
+Free Text:SBGR\604:freetext
+Free Text:SBGR\604L:freetext
+Free Text:SBGR\605:freetext
+Free Text:SBGR\605L:freetext
+Free Text:SBGR\605R:freetext
+Free Text:SBGR\606:freetext
+Free Text:SBGR\606L:freetext
+Free Text:SBGR\606R:freetext
+Free Text:SBGR\607:freetext
+Free Text:SBGR\607L:freetext
+Free Text:SBGR\607R:freetext
+Free Text:SBGR\608:freetext
+Free Text:SBGR\608L:freetext
+Free Text:SBGR\608R:freetext
+Free Text:SBGR\609:freetext
+Free Text:SBGR\609L:freetext
+Free Text:SBGR\609R:freetext
+Free Text:SBGR\60R:freetext
+Free Text:SBGR\610:freetext
+Free Text:SBGR\610L:freetext
+Free Text:SBGR\610R:freetext
+Free Text:SBGR\611:freetext
+Free Text:SBGR\611L:freetext
+Free Text:SBGR\611R:freetext
+Free Text:SBGR\612:freetext
+Free Text:SBGR\612L:freetext
+Free Text:SBGR\612R:freetext
+Free Text:SBGR\7:freetext
+Free Text:SBGR\9:freetext
+Free Text:SBGR\901:freetext
+Free Text:SBGR\901:freetext
+Free Text:SBGR\902:freetext
+Free Text:SBGR\903:freetext
+Free Text:SBGR\905:freetext
+Free Text:SBGR\906:freetext
+Free Text:SBGR\907:freetext
+Free Text:SBGR\908:freetext
+Free Text:SBGR\909:freetext
+Free Text:SBGR\910:freetext
+Free Text:SBGR\911:freetext
+Free Text:SBGR\912:freetext
+Free Text:SBGR\913:freetext
+Free Text:SBGR\A:freetext
+Free Text:SBGR\A:freetext
+Free Text:SBGR\A:freetext
+Free Text:SBGR\A:freetext
+Free Text:SBGR\A:freetext
+Free Text:SBGR\A:freetext
+Free Text:SBGR\A:freetext
+Free Text:SBGR\A:freetext
+Free Text:SBGR\A:freetext
+Free Text:SBGR\A:freetext
+Free Text:SBGR\ABN:freetext
+Free Text:SBGR\APDC MIL:freetext
+Free Text:SBGR\B:freetext
+Free Text:SBGR\B:freetext
+Free Text:SBGR\B:freetext
+Free Text:SBGR\B:freetext
+Free Text:SBGR\B:freetext
+Free Text:SBGR\B:freetext
+Free Text:SBGR\B:freetext
+Free Text:SBGR\B:freetext
+Free Text:SBGR\B:freetext
+Free Text:SBGR\B:freetext
+Free Text:SBGR\BB:freetext
+Free Text:SBGR\C:freetext
+Free Text:SBGR\CC:freetext
+Free Text:SBGR\D:freetext
+Free Text:SBGR\DD:freetext
+Free Text:SBGR\E:freetext
+Free Text:SBGR\F00:freetext
+Free Text:SBGR\F01:freetext
+Free Text:SBGR\F01A:freetext
+Free Text:SBGR\F01A:freetext
+Free Text:SBGR\F01B:freetext
+Free Text:SBGR\F02:freetext
+Free Text:SBGR\F02A:freetext
+Free Text:SBGR\F02B:freetext
+Free Text:SBGR\F03A:freetext
+Free Text:SBGR\F04:freetext
+Free Text:SBGR\F04A:freetext
+Free Text:SBGR\F04B:freetext
+Free Text:SBGR\F05:freetext
+Free Text:SBGR\F05A:freetext
+Free Text:SBGR\F05B:freetext
+Free Text:SBGR\F06:freetext
+Free Text:SBGR\F06A:freetext
+Free Text:SBGR\F07:freetext
+Free Text:SBGR\F08:freetext
+Free Text:SBGR\F08A:freetext
+Free Text:SBGR\F09:freetext
+Free Text:SBGR\F09A:freetext
+Free Text:SBGR\F09B:freetext
+Free Text:SBGR\F10:freetext
+Free Text:SBGR\F11:freetext
+Free Text:SBGR\F13:freetext
+Free Text:SBGR\F13B:freetext
+Free Text:SBGR\F15:freetext
+Free Text:SBGR\F15A:freetext
+Free Text:SBGR\F15B:freetext
+Free Text:SBGR\FF:freetext
+Free Text:SBGR\G:freetext
+Free Text:SBGR\G:freetext
+Free Text:SBGR\G:freetext
+Free Text:SBGR\G:freetext
+Free Text:SBGR\G00:freetext
+Free Text:SBGR\G00A:freetext
+Free Text:SBGR\G01:freetext
+Free Text:SBGR\G01A:freetext
+Free Text:SBGR\G01B:freetext
+Free Text:SBGR\G02:freetext
+Free Text:SBGR\G02A:freetext
+Free Text:SBGR\G02B:freetext
+Free Text:SBGR\G03:freetext
+Free Text:SBGR\G03A:freetext
+Free Text:SBGR\G04:freetext
+Free Text:SBGR\G05:freetext
+Free Text:SBGR\G05A:freetext
+Free Text:SBGR\G06:freetext
+Free Text:SBGR\G07:freetext
+Free Text:SBGR\G07A:freetext
+Free Text:SBGR\G08:freetext
+Free Text:SBGR\G09:freetext
+Free Text:SBGR\G10:freetext
+Free Text:SBGR\G12:freetext
+Free Text:SBGR\H:freetext
+Free Text:SBGR\H:freetext
+Free Text:SBGR\H:freetext
+Free Text:SBGR\H00:freetext
+Free Text:SBGR\H01:freetext
+Free Text:SBGR\H01A:freetext
+Free Text:SBGR\H01B:freetext
+Free Text:SBGR\H02:freetext
+Free Text:SBGR\H03:freetext
+Free Text:SBGR\H03A:freetext
+Free Text:SBGR\H04:freetext
+Free Text:SBGR\H05:freetext
+Free Text:SBGR\H06:freetext
+Free Text:SBGR\H07:freetext
+Free Text:SBGR\H08:freetext
+Free Text:SBGR\H09:freetext
+Free Text:SBGR\H10:freetext
+Free Text:SBGR\H12:freetext
+Free Text:SBGR\Hangar:freetext
+Free Text:SBGR\Hangar:freetext
+Free Text:SBGR\I:freetext
+Free Text:SBGR\I:freetext
+Free Text:SBGR\I01:freetext
+Free Text:SBGR\I01A:freetext
+Free Text:SBGR\I01B:freetext
+Free Text:SBGR\I01C:freetext
+Free Text:SBGR\I02:freetext
+Free Text:SBGR\I02A:freetext
+Free Text:SBGR\I02B:freetext
+Free Text:SBGR\I03:freetext
+Free Text:SBGR\I04:freetext
+Free Text:SBGR\I04A:freetext
+Free Text:SBGR\I04B:freetext
+Free Text:SBGR\I05:freetext
+Free Text:SBGR\I06:freetext
+Free Text:SBGR\I06A:freetext
+Free Text:SBGR\I07:freetext
+Free Text:SBGR\I08:freetext
+Free Text:SBGR\I08A:freetext
+Free Text:SBGR\I09:freetext
+Free Text:SBGR\I10:freetext
+Free Text:SBGR\J:freetext
+Free Text:SBGR\J:freetext
+Free Text:SBGR\K:freetext
+Free Text:SBGR\K:freetext
+Free Text:SBGR\L:freetext
+Free Text:SBGR\L:freetext
+Free Text:SBGR\N:freetext
+Free Text:SBGR\N:freetext
+Free Text:SBGR\O:freetext
+Free Text:SBGR\O:freetext
+Free Text:SBGR\O:freetext
+Free Text:SBGR\P:freetext
+Free Text:SBGR\P:freetext
+Free Text:SBGR\Q:freetext
+Free Text:SBGR\S:freetext
+Free Text:SBGR\S:freetext
+Free Text:SBGR\T:freetext
+Free Text:SBGR\T. CARGAS:freetext
+Free Text:SBGR\T. Passageiros 1 :freetext
+Free Text:SBGR\T. Passageiros 2:freetext
+Free Text:SBGR\T. Passageiros 3:freetext
+Free Text:SBGR\T. Passageiros 4:freetext
+Free Text:SBGR\Torre AIS/MET:freetext
+Free Text:SBGR\U:freetext
+Free Text:SBKP\101:freetext
+Free Text:SBKP\102:freetext
+Free Text:SBKP\103:freetext
+Free Text:SBKP\104:freetext
+Free Text:SBKP\105:freetext
+Free Text:SBKP\106:freetext
+Free Text:SBKP\107:freetext
+Free Text:SBKP\A:freetext
+Free Text:SBKP\A02:freetext
+Free Text:SBKP\A02A:freetext
+Free Text:SBKP\A04:freetext
+Free Text:SBKP\A06:freetext
+Free Text:SBKP\A06A:freetext
+Free Text:SBKP\A08:freetext
+Free Text:SBKP\A1:freetext
+Free Text:SBKP\A2:freetext
+Free Text:SBKP\A3:freetext
+Free Text:SBKP\A4:freetext
+Free Text:SBKP\A5:freetext
+Free Text:SBKP\AIS/MET:freetext
+Free Text:SBKP\B:freetext
+Free Text:SBKP\B02:freetext
+Free Text:SBKP\B04:freetext
+Free Text:SBKP\B06:freetext
+Free Text:SBKP\B07:freetext
+Free Text:SBKP\B08:freetext
+Free Text:SBKP\B09:freetext
+Free Text:SBKP\B09A:freetext
+Free Text:SBKP\B10:freetext
+Free Text:SBKP\B11:freetext
+Free Text:SBKP\B12:freetext
+Free Text:SBKP\B13:freetext
+Free Text:SBKP\B13A:freetext
+Free Text:SBKP\B14:freetext
+Free Text:SBKP\C:freetext
+Free Text:SBKP\C:freetext
+Free Text:SBKP\C:freetext
+Free Text:SBKP\C02:freetext
+Free Text:SBKP\C04:freetext
+Free Text:SBKP\C05:freetext
+Free Text:SBKP\C06:freetext
+Free Text:SBKP\C07:freetext
+Free Text:SBKP\C08:freetext
+Free Text:SBKP\C09:freetext
+Free Text:SBKP\C10:freetext
+Free Text:SBKP\C11:freetext
+Free Text:SBKP\C12:freetext
+Free Text:SBKP\C13:freetext
+Free Text:SBKP\C14:freetext
+Free Text:SBKP\C15:freetext
+Free Text:SBKP\D:freetext
+Free Text:SBKP\E:freetext
+Free Text:SBKP\F:freetext
+Free Text:SBKP\G:freetext
+Free Text:SBKP\G:freetext
+Free Text:SBKP\H:freetext
+Free Text:SBKP\I:freetext
+Free Text:SBKP\J:freetext
+Free Text:SBKP\K1:freetext
+Free Text:SBKP\K2:freetext
+Free Text:SBKP\L1:freetext
+Free Text:SBKP\M:freetext
+Free Text:SBKP\M:freetext
+Free Text:SBKP\M:freetext
+Free Text:SBKP\M1:freetext
+Free Text:SBKP\M1A:freetext
+Free Text:SBKP\M1B:freetext
+Free Text:SBKP\M2:freetext
+Free Text:SBKP\M2A:freetext
+Free Text:SBKP\M2B:freetext
+Free Text:SBKP\M3:freetext
+Free Text:SBKP\M3A:freetext
+Free Text:SBKP\M3B:freetext
+Free Text:SBKP\M4:freetext
+Free Text:SBKP\M4A:freetext
+Free Text:SBKP\M4B:freetext
+Free Text:SBKP\M5:freetext
+Free Text:SBKP\M5A:freetext
+Free Text:SBKP\M5B:freetext
+Free Text:SBKP\M6:freetext
+Free Text:SBKP\M6A:freetext
+Free Text:SBKP\M6B:freetext
+Free Text:SBKP\M7:freetext
+Free Text:SBKP\M7A:freetext
+Free Text:SBKP\M7B:freetext
+Free Text:SBKP\M8:freetext
+Free Text:SBKP\M8A:freetext
+Free Text:SBKP\M8B:freetext
+Free Text:SBKP\PAX:freetext
+Free Text:SBKP\PAX:freetext
+Free Text:SBKP\Pátio 1:freetext
+Free Text:SBKP\Pátio 2:freetext
+Free Text:SBKP\Pátio 3:freetext
+Free Text:SBKP\Pátio 4 ou N:freetext
+Free Text:SBKP\Pátio 5 ou P:freetext
+Free Text:SBKP\Pátio 6 ou Q:freetext
+Free Text:SBKP\R1:freetext
+Free Text:SBKP\R10:freetext
+Free Text:SBKP\R10A:freetext
+Free Text:SBKP\R11:freetext
+Free Text:SBKP\R12:freetext
+Free Text:SBKP\R12A:freetext
+Free Text:SBKP\R13:freetext
+Free Text:SBKP\R14:freetext
+Free Text:SBKP\R15:freetext
+Free Text:SBKP\R16:freetext
+Free Text:SBKP\R17:freetext
+Free Text:SBKP\R18:freetext
+Free Text:SBKP\R19:freetext
+Free Text:SBKP\R2:freetext
+Free Text:SBKP\R3:freetext
+Free Text:SBKP\R4:freetext
+Free Text:SBKP\R5:freetext
+Free Text:SBKP\R6:freetext
+Free Text:SBKP\R7:freetext
+Free Text:SBKP\R8:freetext
+Free Text:SBKP\R9:freetext
+Free Text:SBKP\RFFS:freetext
+Free Text:SBKP\TERMINAL DE CARGA:freetext
+Free Text:SBKP\TORRE:freetext
+Free Text:SBMT\A:freetext
+Free Text:SBMT\A:freetext
+Free Text:SBMT\A:freetext
+Free Text:SBMT\B:freetext
+Free Text:SBMT\C:freetext
+Free Text:SBMT\D:freetext
+Free Text:SBMT\E:freetext
+Free Text:SBMT\F:freetext
+Free Text:SBMT\F:freetext
+Free Text:SBMT\F:freetext
+Free Text:SBMT\G:freetext
+Free Text:SBMT\H:freetext
+Free Text:SBMT\J:freetext
+Free Text:SBMT\K:freetext
+Free Text:SBMT\M:freetext
+Free Text:SBSJ\A:freetext
+Free Text:SBSJ\B:freetext
+Free Text:SBSJ\C:freetext
+Free Text:SBSJ\D:freetext
+Free Text:SBSJ\E:freetext
+Free Text:SBSJ\E:freetext
+Free Text:SBSJ\E:freetext
+Free Text:SBSJ\Embraer:freetext
+Free Text:SBSJ\MIL:freetext
+Free Text:SBSJ\Patio 1:freetext
+Free Text:SBSJ\Patio 2:freetext
+Free Text:SBSJ\PAX:freetext
+Free Text:SBSP\1:freetext
+Free Text:SBSP\10:freetext
+Free Text:SBSP\11:freetext
+Free Text:SBSP\12:freetext
+Free Text:SBSP\13:freetext
+Free Text:SBSP\14:freetext
+Free Text:SBSP\15:freetext
+Free Text:SBSP\16:freetext
+Free Text:SBSP\17:freetext
+Free Text:SBSP\18:freetext
+Free Text:SBSP\19:freetext
+Free Text:SBSP\2:freetext
+Free Text:SBSP\20:freetext
+Free Text:SBSP\21:freetext
+Free Text:SBSP\22:freetext
+Free Text:SBSP\23:freetext
+Free Text:SBSP\24:freetext
+Free Text:SBSP\25:freetext
+Free Text:SBSP\26:freetext
+Free Text:SBSP\27:freetext
+Free Text:SBSP\28:freetext
+Free Text:SBSP\29:freetext
+Free Text:SBSP\3:freetext
+Free Text:SBSP\4:freetext
+Free Text:SBSP\5:freetext
+Free Text:SBSP\6:freetext
+Free Text:SBSP\7:freetext
+Free Text:SBSP\8:freetext
+Free Text:SBSP\9:freetext
+Free Text:SBSP\A:freetext
+Free Text:SBSP\B:freetext
+Free Text:SBSP\C:freetext
+Free Text:SBSP\D:freetext
+Free Text:SBSP\E:freetext
+Free Text:SBSP\F:freetext
+Free Text:SBSP\H:freetext
+Free Text:SBSP\HANGAR:freetext
+Free Text:SBSP\HANGARES:freetext
+Free Text:SBSP\I:freetext
+Free Text:SBSP\J:freetext
+Free Text:SBSP\K:freetext
+Free Text:SBSP\L:freetext
+Free Text:SBSP\M:freetext
+Free Text:SBSP\N:freetext
+Free Text:SBSP\O:freetext
+Free Text:SBSP\P:freetext
+Free Text:SBSP\PATIO 1:freetext
+Free Text:SBSP\PATIO 2:freetext
+Free Text:SBSP\PATIO 3:freetext
+Free Text:SBSP\Q:freetext
+Free Text:SBSP\R:freetext
+Free Text:SBSP\S:freetext
+Free Text:SBSP\W:freetext
+Free Text:SBSP\X:freetext
+Free Text:SDCO\A:freetext
+Free Text:SDCO\AEROCLUBE:freetext
+Free Text:SDCO\B:freetext
+Free Text:SDCO\C:freetext
+Free Text:SDCO\CHECK MOTORES:freetext
+Free Text:SDCO\D:freetext
+Free Text:SDCO\E:freetext
+Free Text:SDCO\F:freetext
+Free Text:SDCO\G:freetext
+Free Text:SDCO\H:freetext
+Free Text:SDCO\HANGAR CONAL:freetext
+Free Text:SDCO\HANGARES:freetext
+Free Text:SDCO\I:freetext
+Free Text:SDCO\J:freetext
+Free Text:SDCO\TERMINAL PAX:freetext
+Geo:BOITUVA_PARAQ:
+Geo:ESTADOS_SBCW:
+Geo:GEO:
+Geo:Rep_Billings:
+Geo:Rep_Guarapiranga:
+Geo:SBBP_GND:
+Geo:SBGR_GND:
+Geo:SBGW_GND:
+Geo:SBJD_GND:
+Geo:SBKP_GND:
+Geo:SBMT_GND:
+Geo:SBSJ_GND:
+Geo:SBSP_GND:
+Geo:SBST_GND:
+Geo:SBTA_GND:
+Geo:SDAM_GND:
+Geo:SDCO_GND:
+Geo:SDPW_GND:
+Geo:SDTF_GND:
+
+NDBs:CPN:name
+NDBs:CPN:symbol
+
+NDBs:DAD:name
+NDBs:DAD:symbol
+
+NDBs:EMB:name
+NDBs:EMB:symbol
+
+NDBs:GGT:name
+NDBs:GGT:symbol
+
+NDBs:IBC:name
+NDBs:IBC:symbol
+
+NDBs:ICO:name
+NDBs:ICO:symbol
+
+NDBs:IG:name
+NDBs:IG:symbol
+
+NDBs:IGR:name
+NDBs:IGR:symbol
+
+NDBs:IGS:name
+NDBs:IGS:symbol
+
+NDBs:IK:name
+NDBs:IK:symbol
+
+NDBs:IKP:name
+NDBs:IKP:symbol
+
+NDBs:ISJ:name
+NDBs:ISJ:symbol
+
+NDBs:ISP:name
+NDBs:ISP:symbol
+
+NDBs:IUC:name
+NDBs:IUC:symbol
+
+NDBs:PND:name
+NDBs:PND:symbol
+
+NDBs:RCL:name
+NDBs:RCL:symbol
+
+NDBs:SAT:name
+NDBs:SAT:symbol
+
+NDBs:TBE:name
+NDBs:TBE:symbol
+
+NDBs:UBT:name
+NDBs:UBT:symbol
+Regions:SBGR:polygon
+Regions:SBKP:polygon
+Regions:SBSP:polygon
+
+VORs:BCO:name
+VORs:BCO:symbol
+
+VORs:BGC:name
+VORs:BGC:symbol
+
+VORs:CGO:name
+VORs:CGO:symbol
+
+VORs:CPN:name
+VORs:CPN:symbol
+
+VORs:RDE:name
+VORs:RDE:symbol
+
+VORs:SCB:name
+VORs:SCB:symbol
+
+VORs:SCP:name
+VORs:SCP:symbol
+
+VORs:STN:name
+VORs:STN:symbol
+
+VORs:TAU:name
+VORs:TAU:symbol
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:-3
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:20.00000
+TAGFAMILY:Matias (built in)
+WINDOWAREA:-24.823346:-49.283294:-22.022996:-44.042232

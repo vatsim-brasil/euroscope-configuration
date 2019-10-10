@@ -1,0 +1,10 @@
+Instruções:
+
+1 - Extraia o conteúdo deste arquivo na mesma raiz da pasta Data_Files;
+2 - Abra o EuroScope e carregue o arquivo "perfil.prf";
+3 - No EuroScope, clique em "Open SCT" no menu superior e no menu clique em "Load Sector File";
+4 - Carregue o Sector File de São Paulo;
+5 - Clique novamente no menu "Open SCT" e clique em "Open...";
+6 - Carregue o arquivo "sp.asr" e na janela que abrir clique em sim para manter o Sector File carregado;
+
+Dúvidas? Entre em contato com um instrutor da VATSIM Brasil.
