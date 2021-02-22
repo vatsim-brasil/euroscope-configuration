@@ -1,5 +1,0 @@
-Nesta pasta ficam versões não alteradas dos arquivos ASR, PRF e de Simbologia.
-Vc pode usar cópias destes arquivos para definir um novo perfil (PRF), uma nova configuração de tela radar (ASR),
-ou redefinir a simbologia.
-
-**ATENÇÃO**: Não distribua o arquivo PRF sem antes apagar sua senha VATSIM que fica armazenada neste arquivo!
